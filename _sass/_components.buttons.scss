@@ -1,0 +1,18 @@
+.button {
+  font-family: $font-asap;
+  display: inline-block;
+  background: $primary;
+  border: 0;
+  color: $white;
+  padding: 10px 20px;
+  border-radius: 5px;
+
+  &--secondary {
+    background: $primary-light;
+    color: $black;
+  }
+
+  &:hover {
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.8);
+  }
+}

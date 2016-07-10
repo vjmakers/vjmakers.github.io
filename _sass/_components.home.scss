@@ -1,0 +1,14 @@
+.home {
+  padding: 16px 0 32px;
+  margin-top: -16px;
+  background: $gray;
+
+  &__title {
+    color: $primary;
+  }
+
+  &__copy {
+    font-size: 24px;
+    line-height: 32px;
+  }
+}

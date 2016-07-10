@@ -1,0 +1,16 @@
+section a {
+  color: $accent;
+  border-bottom: 3px solid rgba($accent, 0.3);
+  text-decoration: none;
+  transition: border-color 0.7s ease;
+
+  img {
+    border: 0;
+  }
+
+  &:active,
+  &:focus,
+  &:hover {
+    border-color: $accent;
+  }
+}

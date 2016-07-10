@@ -1,0 +1,12 @@
+html {
+  color: $black;
+  font: 20px/1.6 $font-open-sans;
+  -webkit-font-smoothing: antialiased;
+}
+
+// Text selection.
+::selection {
+  background: $primary-light;
+  color: $black;
+  text-shadow: none;
+}

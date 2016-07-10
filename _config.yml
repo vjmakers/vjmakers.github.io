@@ -1,0 +1,13 @@
+name: "VJC Makers’ Club"
+description: "Victoria Junior College’s Makers’ Club are a group of students who are interested in innovating and making all kinds of things."
+url: "https://vjc-makers.github.io"
+env: "development"
+exclude:
+  - "LICENSE"
+  - "README.md"
+  - "Gemfile"
+  - "package.json"
+gems:
+  - "jekyll-sitemap"
+  - "jekyll-last-modified-at"
+  - "octopress-minify-html"

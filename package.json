@@ -1,0 +1,12 @@
+{
+  "name": "vjc-makers.github.io",
+  "private": true,
+  "devDependencies": {
+    "@alrra/travis-scripts": "^3.0.0"
+  },
+  "scripts": {
+    "build": "jekyll build",
+    "build:production": "jekyll build --config _config.yml,_config.production.yml",
+    "start": "jekyll serve"
+  }
+}

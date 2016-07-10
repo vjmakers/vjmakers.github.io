@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+#content {
+  flex: 1;
+  padding-top: 16px;
+  padding-bottom: 32px;
+}
+
+.container {
+  max-width: $site-width;
+  margin: 0 auto;
+  padding: 0 24px;
+}
