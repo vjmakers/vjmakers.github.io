@@ -1,5 +1,5 @@
 name: "VJC Makers’ Club"
-description: "VJC’s Makers’ Club are a group of students who are interested in innovating and making all kinds of things."
+description: "VJC Makers’ Club are a group of students who are interested in innovating and making all kinds of things."
 url: "https://vjc-makers.github.io"
 env: "development"
 exclude:
