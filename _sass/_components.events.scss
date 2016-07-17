@@ -3,18 +3,19 @@
     font-weight: bold;
     text-decoration: line-through;
   }
-  .date.date--upcoming {
+  .date--upcoming {
     text-decoration: none;
   }
   .date:hover::after {
     display: inline-block;
     margin-left: 10px;
-    color: $primary;
+    color: $accent;
     font-weight: normal;
     text-decoration: none !important;
     content: 'This event is over.';
   }
-  .date.date--upcoming:hover::after {
+  .date--upcoming:hover::after {
+    color: $primary;
     content: 'This event is upcoming.';
   }
 }
