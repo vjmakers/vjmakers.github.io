@@ -1,0 +1,20 @@
+#events {
+  .date {
+    font-weight: bold;
+    text-decoration: line-through;
+  }
+  .date.date--upcoming {
+    text-decoration: none;
+  }
+  .date:hover::after {
+    display: inline-block;
+    margin-left: 10px;
+    color: $primary;
+    font-weight: normal;
+    text-decoration: none !important;
+    content: 'This event is over.';
+  }
+  .date.date--upcoming:hover::after {
+    content: 'This event is upcoming.';
+  }
+}
