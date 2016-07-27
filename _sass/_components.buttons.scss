@@ -4,6 +4,7 @@
   background: $primary;
   border: 0;
   color: $white;
+  margin: 5px 0;
   padding: 10px 20px;
   border-radius: 5px;
   box-shadow: 0;
@@ -12,6 +13,10 @@
   &--secondary {
     background: $primary-light;
     color: $black;
+  }
+
+  &--large {
+    font-size: 24px;
   }
 
   &:hover {
