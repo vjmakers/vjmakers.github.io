@@ -8,9 +8,9 @@ Here’s what our members are currently involved in:
 
 ## 2016
 
-<span class="date date--upcoming">29 July</span>
+<span class="date">29 July</span>
 
-- Our members will be presenting a 3D modelling workshop for secondary school students at a science carnival.
+- Our members will be presenting a 3D modelling workshop for secondary school students at the East Zone Science Carnival.
 
 <span class="date">11 to 15 July</span>
 
