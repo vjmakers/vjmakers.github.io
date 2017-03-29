@@ -23,33 +23,31 @@ In the future, by linking the device with a wireless transmitter, this project c
 
 ### VJC Blazer Loaning System
 
-They then started out tackling a real problem which they learned about from the Student’s Council of VJC. One of the councillors highlighted that Blazer Loaning system is a tedious problem for the council as they needed to man the council room to loan blazers and wondered if there was a better way to solve the problem with technology. This group immediately sprang into action and designed a working website that allows students to borrow and return the blazers. Unfortunately, the solution was not implemented as the blazers were passed over to the general office staff to handle.
+We collaborated with VJC’s Students’ Council to tackle a real problem faced by them. One of the councillors highlighted that the school’s blazer loaning system was a tedious and complicated problem for the council as they needed to man the council room to loan blazers and wondered if there was a better way to solve the problem with technology. After discussing and brainstorming with the SC to decide on the features required, we designed a [website](https://vjcblazer.appspot.com/) which allows students to conveniently borrow and return the blazers. Unfortunately, the solution was not implemented as the blazers were passed over to the general office staff to handle.
 
 
 ### 3D-printed Gifts for VJC guests
 
-VJC wanted to provide special gifts for the VVIP of VJC, and decided to collaborate with Project: Makers on a 3D-printing project. Jared Goh from 16S44 volunteered to do this project. He started out conceptualizing various ideas but settled on the idea of making the school crest in 3D. He challenged the norms further and innovated further by having a rotatable school crest design.
+VJC wanted to provide special gifts for the VVIP of VJC, and decided to collaborate with us on a 3D-printing project. Jared Goh from 16S44 volunteered to do this project. He started out by conceptualizing various ideas and eventually settled on the idea of making the school crest in 3D. He challenged the norms and innovated further by making a rotatable school crest design. Jared separated the school crest into individual elements (the ring, shield, flame, book and name), to allow each element to freely rotate around a central axis.
 
-Through a few weeks of Prototyping, Printing and Redesigning, a first workable product was created.
- 
-Jared separated the school crest into individual elements (the ring, shield, flame, book and name), and each element is able to freely rotate around a central axis. But as can be seen, these are still parts connected by a Satay stick, done in the spirit of rapid prototyping. After a few more weeks of trials and improvement, we presented the final product.
+Through a few weeks of Prototyping, Printing and Redesigning, a first workable product was created. After a few more weeks of trials and improvement, we finally presented the final product to VJC.
 
 
-### Collaboration with Earth Watch for Coffee Maker by up-recycling old bulbs.
+### Coffee Maker made with Recycled Lightbulbs
 
-We collaborated with Earth Watch to help to think of ways to up-recycle old electronic products. After brainstorming over many ideas, we settled on using old lightbulbs to up-recycle into coffee makers. Although forewarned of possible difficulties, the team showed their resilience and forged ahead. Eventually, together with Earthwatch, the team participated in the Environmental Arts Fiesta 2016 and showcased their product.
-
-
-### 3D-printed Phone Covers
-
-We were interested in 3D printing and in designing a phone cover. Even though they previously had no experience with 3D printing, they picked up the skills required initially through the workshop and later on through their own research on line.
-
-
-### 3D-printed Glider
-
-We were interested in building a glider, and also learn more about the physics of flight at the same time. 3D printing was a good avenue for us to rapidly prototype, fail, learn from our mistakes and remake our prototype. We also learnt to consider the properties of materials and how to assemble them properly.
+We collaborated with Earth Watch to help to think of ways to up-recycle old electronic products. After brainstorming over many ideas, we settled on using old lightbulbs to up-recycle into coffee makers. Although forewarned of possible difficulties, we still continued with the project and forged ahead in designing a suitable prototype. Eventually, together with Earthwatch, we participated in the Environmental Arts Fiesta 2016 and showcased our product.
 
 
 ### Home Automation
 
 We wanted to help teachers tackle the problem when teachers are carrying many things and are not able to scan their fingers to enter the staffroom. The project then evolved to consider home automation as a possible application. The project was ambitious as it required multiple areas of knowledge from Circuitry, to RFIDs to rewiring antennas. The team made a good attempt and learnt many skills like soldering and impedance matching along the way.
+
+
+### 3D-printed Phone Covers
+
+We were interested in 3D printing and in designing a phone cover. Even though our team previously had no experience with 3D printing, we picked up the skills required initially through the workshop and later on through their own research on line.
+
+
+### 3D-printed Glider
+
+We were interested in building a glider, and also learn more about the physics of flight at the same time. 3D printing was a good avenue for us to rapidly prototype, fail, learn from our mistakes and remake our prototype. We also learnt to consider the properties of materials and how to assemble them properly.
