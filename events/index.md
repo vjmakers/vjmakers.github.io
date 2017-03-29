@@ -6,6 +6,17 @@ id: events
 
 Here’s what our members are currently involved in:
 
+## 2017
+
+<span class="date date--upcoming">19 April</span>
+
+- Arduino workshops will be conducted for VJC students.
+
+<span class="date date--upcoming">In the future</span>
+
+- The [SUTD Mobile Fabrication Lab](2016/sutd-fab-lab/) will be returning again this year!
+
+
 ## 2016
 
 <span class="date">29 July</span>
