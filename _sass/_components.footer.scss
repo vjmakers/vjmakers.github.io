@@ -3,4 +3,13 @@
   text-align: center;
   color: $accent;
   font-family: $font-asap;
+
+  &::before {
+    display: block;
+    width: 100px;
+    height: 3px;
+    margin: 0 auto 27px;
+    background: $gray;
+    content: '';
+  }
 }
