@@ -1,10 +1,10 @@
 #events {
   .date {
     font-weight: bold;
-    text-decoration: line-through;
-  }
-  .date--upcoming {
     text-decoration: none;
+  }
+  .date:hover {
+    text-decoration: line-through;
   }
   .date:hover::after {
     display: inline-block;
@@ -12,10 +12,14 @@
     color: $accent;
     font-weight: normal;
     text-decoration: none !important;
-    content: 'This event is over.';
+    content: 'This event is over :(';
+  }
+
+  .date--upcoming:hover {
+    text-decoration: none !important;
   }
   .date--upcoming:hover::after {
     color: $primary;
-    content: 'This event is upcoming.';
+    content: 'Coming soon!';
   }
 }
