@@ -4,10 +4,10 @@
   background: lighten($gray, 3%);
 
   &__title {
-    color: $primary;
+    color: $accent;
 
     &-vjc {
-      color: $accent;
+      color: $primary;
     }
   }
 
