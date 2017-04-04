@@ -9,7 +9,7 @@ Here’s a list of projects done by our members, both current and in the past.
 
 ### VJC Street View
 
-The students wondered if they could help the school reach out to more O levels students but displaying the beautiful VJC campus via 360 photos, using technology similar to google street view.
+The students wondered if they could help the school reach out to more O Level students by displaying the beautiful VJC campus via 360 photos, using technology similar to Google Street View.
 
 
 ## 2016
@@ -34,6 +34,8 @@ Through a few weeks of Prototyping, Printing and Redesigning, a first workable p
 
 
 ### Coffee Maker made with Recycled Lightbulbs
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7zwMoZgMq1k" frameborder="0" allowfullscreen></iframe>
 
 We collaborated with Earth Watch to help to think of ways to up-recycle old electronic products. After brainstorming over many ideas, we settled on using old lightbulbs to up-recycle into coffee makers. Although forewarned of possible difficulties, we still continued with the project and forged ahead in designing a suitable prototype. Eventually, together with Earthwatch, we participated in the Environmental Arts Fiesta 2016 and showcased our product.
 
