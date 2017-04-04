@@ -5,6 +5,10 @@
 
   &__title {
     color: $primary;
+
+    &-vjc {
+      color: $accent;
+    }
   }
 
   &__copy {
@@ -24,7 +28,7 @@
     stroke-width: 0;
     stroke: currentColor;
     fill: currentColor;
-  
+
     &-instagram {
       width: 0.857421875em;
     }
