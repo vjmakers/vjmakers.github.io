@@ -8,6 +8,11 @@
     max-width: 100%;
   }
 
+  &__video {
+    max-width: 560px;
+    max-height: 315px;
+  }
+
   &__caption {
     text-align: center;
     font-style: italic;
