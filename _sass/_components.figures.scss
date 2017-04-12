@@ -4,7 +4,8 @@
   padding: 16px;
   border-radius: 4px;
 
-  &__image, &__video {
+  &__image,
+  &__video {
     max-width: 100%;
     margin: auto;
   }
