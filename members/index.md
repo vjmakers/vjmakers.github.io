@@ -3,7 +3,7 @@ title: Members
 ---
 # List of members
 
-## Batch of 2016-2017
+## Batch of 2016–2017
 
 - [Aaditya Patwari](mailto:aaditya.patwari.2016@vjc.sg) from 16S47 (**Secretary**)
 - [Benjamin Tan](mailto:tan.siong.min.benjamin.2016@vjc.sg) from 16S51
