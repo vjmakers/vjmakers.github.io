@@ -9,12 +9,14 @@ Here’s a list of projects done by our members, both current and in the past.
 
 ### VJC Street View
 
-The students wondered if they could help the school reach out to more O Level students by displaying the beautiful VJC campus via 360 photos, using technology similar to Google Street View.
+We wanted to help the school reach out to more “O Level” students by [displaying the VJC campus via 360° photos](https://vjmakers.github.io/street-view/), using technology similar to Google Street View.
 
 
 ## 2016
 
 ### “AirQ” Detector: Haze Detection Device
+
+{% include youtube.html id="Y39W0nv2nSU" caption="A brief overview of the aims of our project and how we made our haze detection device." %}
 
 We noticed that the number of air quality monitoring stations in Singapore is limited to a few locations, and the air quality listed is an average value from various stations and only reported in an hourly basis. We attempted to provide data on-demand by creating and designing a portable, easy-to-use detector. In the process, we learnt about the use of microcontrollers and 3D printing.
 
@@ -28,6 +30,8 @@ We collaborated with VJC’s Students’ Council to tackle a real problem faced 
 
 ### 3D-printed Gifts for VJC guests
 
+{% include youtube.html id="xLR1QRUJxm8" caption="Our 3D-printed gifts project." %}
+
 VJC wanted to provide special gifts for the VVIP of VJC, and decided to collaborate with us on a 3D-printing project. Jared Goh from 16S44 volunteered to do this project. He started out by conceptualizing various ideas and eventually settled on the idea of making the school crest in 3D. He challenged the norms and innovated further by making a rotatable school crest design. Jared separated the school crest into individual elements (the ring, shield, flame, book and name), to allow each element to freely rotate around a central axis.
 
 Through a few weeks of Prototyping, Printing and Redesigning, a first workable product was created. After a few more weeks of trials and improvement, we finally presented the final product to VJC.
@@ -35,9 +39,9 @@ Through a few weeks of Prototyping, Printing and Redesigning, a first workable p
 
 ### Coffee Maker made with Recycled Lightbulbs
 
-{% include youtube.html id="7zwMoZgMq1k" caption="" %}
+{% include youtube.html id="7zwMoZgMq1k" caption="A quick introduction to our coffee maker project." %}
 
-We collaborated with Earth Watch to help to think of ways to up-recycle old electronic products. After brainstorming over many ideas, we settled on using old lightbulbs to up-recycle into coffee makers. Although forewarned of possible difficulties, we still continued with the project and forged ahead in designing a suitable prototype. Eventually, together with Earthwatch, we participated in the Environmental Arts Fiesta 2016 and showcased our product.
+We collaborated with Earth Watch to help to think of ways to up-recycle old electronic products. After brainstorming over many ideas, we settled on using old lightbulbs to up-recycle into coffee makers. Although forewarned of possible difficulties, we still continued with the project and forged ahead in designing a suitable prototype. Eventually, together with Earthwatch, we participated in the Environmental Arts Fiesta 2016 and showcased our product. Despite not finishing the project, we still learnt many valuable lessons in the design and undertaking of this project.
 
 
 ### Home Automation
@@ -54,8 +58,10 @@ We wanted to help teachers tackle the problem when teachers are carrying many th
 We were interested in 3D printing and in designing a phone cover. Even though our team previously had no experience with 3D printing, we picked up the skills required initially through the workshop and later on through their own research on line.
 
 
-### 3D-printed Glider
+### 3D-printed Glider and Launcher
 
 {% include youtube.html id="gClQnUnbwxY" caption="Our 3D-printed glider project." %}
 
 We were interested in building a glider, and also learn more about the physics of flight at the same time. 3D printing was a good avenue for us to rapidly prototype, fail, learn from our mistakes and remake our prototype. We also learnt to consider the properties of materials and how to assemble them properly.
+
+We also attempted building a glider launcher, which was inspired by a crossbow as well as aircraft catapults. We had to make use of the limited resources available to us to fashion the launcher, which made us have to improvise various parts of it, challenging our creativity.
